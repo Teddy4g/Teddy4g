@@ -1,4 +1,24 @@
 # 🧠 About Me
+
+## 🧠 About Me
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="200" alt="Luffy waving">
+  <div>
+    🤝 **I’m looking to collaborate on**  
+    Creative tech projects especially ones involving data, AI, or sustainability.  
+
+    🌱 **I’m currently learning**  
+    Machine learning, data visualization, and data storytelling to communicate insights effectively.  
+
+    💬 **Ask me about**  
+    Analytics, design thinking, and how data can drive smarter decisions.  
+
+    ⚡ **Fun fact**  
+    I once visualized a dashboard on Tableau just for fun and it actually looked good.
+  </div>
+</div>
+
 <table>
 <tr>
 <td width="35%">
