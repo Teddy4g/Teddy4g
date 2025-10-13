@@ -10,7 +10,7 @@
 <td>
 
 🤝 **I’m looking to collaborate on**  
-Creative tech projects — especially ones involving data, AI, or sustainability.  
+Creative tech projects especially ones involving data, AI, or sustainability.  
 
 🌱 **I’m currently learning**  
 Machine learning, data visualization, and data storytelling to communicate insights effectively.  
