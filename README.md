@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="35%">
-  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="300">
+  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="350">
 </td>
 <td>
 
