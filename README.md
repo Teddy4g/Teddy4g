@@ -1,7 +1,4 @@
-## 🧠 About Me
-
-## 🧠 About Me
-
+# 🧠 About Me
 <table>
 <tr>
 <td width="35%">
