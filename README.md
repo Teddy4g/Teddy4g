@@ -1,7 +1,7 @@
 ## 🧠 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation">
+  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/killua-gon.gif" width="300">
 </p>
 
 🤝 I’m looking to collaborate on  
