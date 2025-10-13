@@ -1,8 +1,20 @@
-# 💫 About Me: 
-<p align="right">
-  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/killua-gon.gif" width="150" alt="Website preview">
+## 🧠 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation">
 </p>
-🤝 I’m looking to collaborate on  <br>Creative tech projects — especially ones involving data, AI, or sustainability.<br><br>🙌 I’m looking for help with  <br>Deploying ML models on the web and making them accessible to everyone.<br><br>🌱 I’m currently learning  <br>’m currently learning machine learning, data visualization, and data storytelling to communicate insights effectively.<br><br>💬 Ask me about  <br>Analytics, design thinking, and how data can drive smarter decisions.<br><br>⚡ Fun fact  <br>I once visualized a dashboard on Tableau just for fun and it actually looked good.
+
+🤝 I’m looking to collaborate on  
+Creative tech projects — especially ones involving data, AI, or sustainability.
+
+🌱 I’m currently learning  
+Machine learning, data visualization, and data storytelling to communicate insights effectively.
+
+💬 Ask me about  
+Analytics, design thinking, and how data can drive smarter decisions.
+
+⚡ Fun fact  
+I once visualized a dashboard on Tableau just for fun and it actually looked good.
 
 
 
