@@ -1,5 +1,3 @@
-<img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="1000">
-
 # About Me
 
 <table>
