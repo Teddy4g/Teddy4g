@@ -1,7 +1,7 @@
 # 😉 About Me 
 
 <p>
-  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="380" align="left" hspace="20">
+  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="250" align="left" hspace="20" vspace="10">
 
   🤝 <strong>I’m looking to collaborate on</strong><br>
   Creative tech projects especially ones involving data, AI, or sustainability.<br><br>
