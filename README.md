@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif"
-       width="230"
+       width="350"
        align="right"
        hspace="50"
        vspace="10">
@@ -17,7 +17,6 @@
   I once visualized a dashboard on Tableau just for fun and it actually looked good.
 </p>
 
-<br clear="left"/>
 
 
 
