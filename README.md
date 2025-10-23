@@ -1,9 +1,9 @@
 # 😉 About Me 
 
-<p align="right">
+<p align="left">
   <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif"
        width="230"
-       align="left"
+       align="right"
        hspace="50"
        vspace="10">
 
