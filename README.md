@@ -4,7 +4,7 @@
   <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" 
        width="230" 
        align="left"
-       hspace="40"
+       hspace="80"
        vspace="10"
        style="margin-right: 40px; border-radius: 10px;">
 
