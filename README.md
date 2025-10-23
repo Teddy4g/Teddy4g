@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif"
-       width="350"
+       width="300"
        align="right"
        hspace="50"
        vspace="10">
