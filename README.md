@@ -1,7 +1,7 @@
 # 😉 About Me 
 
 <div style="display:flex; align-items:flex-start; gap:16px; flex-wrap:wrap;">
-  <div style="flex:1; min-width:150px;">
+  <div style="flex:1; min-width:100px;">
     <p>🤝 <strong>I’m looking to collaborate on</strong><br>
     Creative tech projects especially ones involving data, AI, or sustainability.
     <p>🌱 <strong>I’m currently learning</strong><br>
