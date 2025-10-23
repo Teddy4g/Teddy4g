@@ -1,7 +1,7 @@
 # 😉 About Me 
 
 <p>
-  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="250" align="left" hspace="30" vspace="50">
+  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="230" align="left" hspace="25" vspace="10">
 
   🤝 <strong>I’m looking to collaborate on</strong><br>
   Creative tech projects especially ones involving data, AI, or sustainability.<br><br>
@@ -12,6 +12,9 @@
   ⚡ <strong>Fun fact</strong><br>
   I once visualized a dashboard on Tableau just for fun and it actually looked good.
 </p>
+
+<br clear="left"/>
+
 
 
 
