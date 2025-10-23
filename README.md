@@ -1,8 +1,9 @@
 # 😉 About Me 
 
 <table>
+<tr>
 
-  🤝 **I’m looking to collaborate on**  
+🤝 **I’m looking to collaborate on**  
 Creative tech projects especially ones involving data, AI, or sustainability.  
 
 🌱 **I’m currently learning**  
@@ -11,7 +12,6 @@ Machine learning, data visualization, and data storytelling to communicate insig
 ⚡ **Fun fact**  
 I once visualized a dashboard on Tableau just for fun and it actually looked good.  
  
-<tr>
 <td width="35%">
   <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="350">
 </td>
