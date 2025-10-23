@@ -1,19 +1,20 @@
 # 😉 About Me 
 
-<p>
-  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="230" align="left" hspace="25" vspace="10">
+<div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="230">
+</div>
 
-  🤝 <strong>I’m looking to collaborate on</strong><br>
-  Creative tech projects especially ones involving data, AI, or sustainability.<br><br>
+<div style="display: inline-block; vertical-align: top; max-width: 70%;">
+  <p>🤝 <strong>I’m looking to collaborate on</strong><br>
+  Creative tech projects especially ones involving data, AI, or sustainability.</p>
 
-  🌱 <strong>I’m currently learning</strong><br>
-  Machine learning, data visualization, and data storytelling to communicate insights effectively.<br><br>
+  <p>🌱 <strong>I’m currently learning</strong><br>
+  Machine learning, data visualization, and data storytelling to communicate insights effectively.</p>
 
-  ⚡ <strong>Fun fact</strong><br>
-  I once visualized a dashboard on Tableau just for fun and it actually looked good.
-</p>
+  <p>⚡ <strong>Fun fact</strong><br>
+  I once visualized a dashboard on Tableau just for fun and it actually looked good.</p>
+</div>
 
-<br clear="left"/>
 
 
 
