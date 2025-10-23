@@ -11,7 +11,8 @@
   Creative tech projects especially ones involving data, AI, or sustainability.<br><br>
 
   🌱 <strong>I’m currently learning</strong><br>
-  Machine learning, data visualization, and data storytelling to communicate insights effectively.<br><br>
+  Machine learning, data visualization, and data storytelling 
+  to communicate insights effectively.<br><br>
 
   ⚡ <strong>Fun fact</strong><br>
   I once visualized a dashboard on Tableau just for fun and it actually looked good.
