@@ -20,27 +20,6 @@
 
 
 
-<p align="left">
-  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif"
-       width="280"
-       align="left"
-       style="margin-right: 20px;">
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  🤝 <strong>I’m looking to collaborate on</strong><br>
-  Creative tech projects especially ones involving data, AI, or sustainability.<br><br>
-
-  🌱 <strong>I’m currently learning</strong><br>
-  Machine learning, data visualization, and data storytelling to communicate insights effectively.<br><br>
-
-  ⚡ <strong>Fun fact</strong><br>
-  I once visualized a dashboard on Tableau just for fun and it actually looked good.
-</p>
-
-<br clear="left"/>
-
-
 
 
 ## 🌐 Socials:
