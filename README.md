@@ -1,6 +1,6 @@
 # 😉 About Me 
 
-<p align="left">
+<p align="right">
   <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif"
        width="230"
        align="left"
