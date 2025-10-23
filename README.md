@@ -20,13 +20,14 @@
 
 
 
-<img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif"
-     align="left"
-     width="230"
-     hspace="20"
-     vspace="10">
+<p align="left">
+  <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif"
+       width="230"
+       align="left"
+       style="margin-right: 20px;">
 
-<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   🤝 <strong>I’m looking to collaborate on</strong><br>
   Creative tech projects especially ones involving data, AI, or sustainability.<br><br>
 
@@ -37,7 +38,8 @@
   I once visualized a dashboard on Tableau just for fun and it actually looked good.
 </p>
 
-<br clear="left">
+<br clear="left"/>
+
 
 
 
