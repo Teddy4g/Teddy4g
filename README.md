@@ -3,11 +3,9 @@
 <div style="display:flex; align-items:flex-start; gap:16px; flex-wrap:wrap;">
   <div style="flex:1; min-width:260px;">
     <p>🤝 <strong>I’m looking to collaborate on</strong><br>
-    Creative tech projects especially ones involving data, AI, or sustainability.</p>
-
+    Creative tech projects especially ones involving data, AI, or sustainability.
     <p>🌱 <strong>I’m currently learning</strong><br>
     Machine learning, data visualization, and data storytelling to communicate insights effectively.</p>
-
     <p>⚡ <strong>Fun fact</strong><br>
     I once visualized a dashboard on Tableau just for fun and it actually looked good.</p>
   </div>
