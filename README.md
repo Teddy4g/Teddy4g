@@ -4,7 +4,7 @@
   <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="230">
 </div>
 
-<div style="display: inline-block; vertical-align: top; max-width: 70%;">
+<div style="display: inline-block; vertical-align: top; max-width: 60%;">
   <p>🤝 <strong>I’m looking to collaborate on</strong><br>
   Creative tech projects especially ones involving data, AI, or sustainability.</p>
 
