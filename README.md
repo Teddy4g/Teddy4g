@@ -17,6 +17,7 @@
   I once built a hybrid search RAG system 
   
   that classifies companies for ~Rp 70 each 
+  
   turns out good prompt engineering is cheaper than coffee. ☕
 </p>
 
