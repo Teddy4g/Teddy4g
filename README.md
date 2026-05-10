@@ -7,17 +7,15 @@
        hspace="50"
        vspace="10">
 
-  🤝 <strong>I’m looking to collaborate on</strong><br>
-  Creative tech projects especially ones involving data, AI, or sustainability.<br><br>
+  🤝 **I'm looking to collaborate on**
+  AI-powered automation, RAG systems, and data engineering projects — especially ones solving real-world problems in Indonesia.
 
-  🌱 <strong>I’m currently learning</strong><br>
-  Machine learning, data visualization, and data storytelling 
-  to communicate insights effectively.<br><br>
+  🌱 **I'm currently learning**
+  Production-grade data pipelines, LLM cost optimization, and modern data stack tooling (Airflow, dbt, BigQuery).
 
-  ⚡ <strong>Fun fact</strong><br>
-  I once visualized a dashboard on Tableau just for fun and it actually looked good.
+  ⚡ **Fun fact**
+  I once built a hybrid search RAG system that classifies companies for ~Rp 70 each turns out good prompt engineering is cheaper than coffee. ☕
 </p>
-
 
 
 
