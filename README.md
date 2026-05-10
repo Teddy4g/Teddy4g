@@ -1,6 +1,6 @@
 # 😉 About Me 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif"
        width="250"
        align="right"
@@ -20,8 +20,16 @@
   that classifies companies for ~Rp 70 each 
   
   turns out good prompt engineering is cheaper than coffee. ☕
-</p>
+</p> -->
+<img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="250" align="right"/>
 
+Hi, I'm Teddy 👋 — an AI & Data enthusiast from Jakarta who fell in love with **data engineering** and the magic of turning messy data into something useful.
+
+These days, I'm building **AI automation and RAG systems** that solve real-world problems for Indonesian businesses. I'm fascinated by how a well-designed pipeline and a clever prompt can replace hours of manual work — like the time I built a RAG classifier that labels companies for just **~Rp 70 each**. Turns out good prompt engineering is cheaper than coffee. ☕
+
+Right now, I'm leveling up on **production data pipelines** (Airflow, dbt, BigQuery) and learning how to scale LLM workflows without burning the budget. Always down to collaborate on creative tech projects involving **AI, data, or anything that makes data flow beautifully**.
+
+<br clear="right"/>
 
 
 
