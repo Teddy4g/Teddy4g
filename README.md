@@ -55,8 +55,6 @@ Right now, I'm leveling up on **production data pipelines** (Airflow, dbt, BigQu
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Teddy4g&icon=0&color=0" />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Teddy4g.Teddy4g&left_color=gray&right_color=blue&left_text=Profile%20Views" alt="visitors" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
