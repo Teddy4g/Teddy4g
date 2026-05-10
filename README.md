@@ -23,7 +23,7 @@
 </p> -->
 <img src="https://github.com/Teddy4g/Teddy4g/blob/main/luffy-yo.gif" width="250" align="right"/>
 
-Hi, I'm Teddy 👋 — an AI & Data enthusiast from Jakarta who fell in love with **data engineering** and the magic of turning messy data into something useful.
+Hi, I'm Teddy 👋 an AI & Data enthusiast from Jakarta who fell in love with **data engineering** and the magic of turning messy data into something useful.
 
 These days, I'm building **AI automation and RAG systems** that solve real-world problems for Indonesian businesses. I'm fascinated by how a well-designed pipeline and a clever prompt can replace hours of manual work — like the time I built a RAG classifier that labels companies for just **~Rp 70 each**. Turns out good prompt engineering is cheaper than coffee. ☕
 
