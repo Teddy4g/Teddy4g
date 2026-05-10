@@ -41,7 +41,7 @@ Right now, I'm leveling up on **production data pipelines** (Airflow, dbt, BigQu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Teddy4g&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=495" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Teddy4g&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Right now, I'm leveling up on **production data pipelines** (Airflow, dbt, BigQu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teddy4g&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Teddy4g&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
