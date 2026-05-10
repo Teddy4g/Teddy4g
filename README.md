@@ -7,14 +7,15 @@
        hspace="50"
        vspace="10">
 
-  🤝 **I'm looking to collaborate on**
-  AI-powered automation, RAG systems, and data engineering projects — especially ones solving real-world problems in Indonesia.
-
-  🌱 **I'm currently learning**
-  Production-grade data pipelines, LLM cost optimization, and modern data stack tooling (Airflow, dbt, BigQuery).
+  🤝 **I'm looking to collaborate on**  
+  AI automation, RAG systems, and data engineering projects.
+  
+  🌱 **I'm currently learning**  
+  Production data pipelines and LLM cost optimization.
 
   ⚡ **Fun fact**
-  I once built a hybrid search RAG system that classifies companies for ~Rp 70 each turns out good prompt engineering is cheaper than coffee. ☕
+  I once built a hybrid search RAG system that classifies companies for ~Rp 70 each 
+  turns out good prompt engineering is cheaper than coffee. ☕
 </p>
 
 
